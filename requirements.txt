@@ -1,0 +1,7 @@
+streamlit==1.39.0
+google-generativeai==0.3.2
+requests==2.31.0
+beautifulsoup4==4.12.3
+gtts==2.5.0
+SpeechRecognition==3.10.4
+PyAudio==0.2.14
